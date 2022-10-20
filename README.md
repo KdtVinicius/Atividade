@@ -1,3 +1,3 @@
-# POO - Gilbert
+# Atvidades de TADS
 
-## TADS
+## POO, Algoritmos, Arquitetura
